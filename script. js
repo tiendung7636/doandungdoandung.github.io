@@ -25,16 +25,6 @@ $(function()
 		name: "Nếu Anh Đi (Cover)",
 		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-	},{
-    artist: "Bùi Anh Tuấn",
-    name: "Lặng Yên",
-    url: "Musics/Lang-Yen-Lang-Yen-Duoi-Vuc-Sau-OST-Bui-Anh-Tuan-Ai-Phuong.mp3",
-    picture: "Background/tiendung1.jpg"
-    },{
-    artist: "Bùi Anh Tuấn",
-    name: "Việt Nam Tôi",
-    url: "Musics\Dung-Khoc-Nua-Ma-Gia-Huy-Singer.mp3",
-    picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
