@@ -33,7 +33,7 @@ $(function()
     },{
     artist: "Bùi Anh Tuấn",
     name: "Việt Nam Tôi",
-    url: "https://zingmp3.vn/bai-hat/Viet-Nam-Toi-Jack-K-ICM/ZWAFB06W.html",
+    url: "Musics\Dung-Khoc-Nua-Ma-Gia-Huy-Singer.mp3",
     picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
