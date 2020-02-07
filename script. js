@@ -30,6 +30,11 @@ $(function()
     name: "Lặng Yên",
     url: "Musics/Lang-Yen-Lang-Yen-Duoi-Vuc-Sau-OST-Bui-Anh-Tuan-Ai-Phuong.mp3",
     picture: "Background/tiendung1.jpg"
+    },{
+    artist: "Bùi Anh Tuấn",
+    name: "Việt Nam Tôi",
+    url: "https://zingmp3.vn/bai-hat/Viet-Nam-Toi-Jack-K-ICM/ZWAFB06W.html",
+    picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
